@@ -25,22 +25,23 @@ Kernel's Software Solutions is a team of professional engineers and software eng
 
 If you are interested in collaboration or have any inquiries, feel free to reach out to us:
 
-- **Email**: [info@kernels.com](mailto:info@kernels.com)
-- **LinkedIn**: [Kernel's LinkedIn](https://linkedin.com/company/kernels)
-- **Twitter**: [Kernel's Twitter](https://twitter.com/kernels)
-- **LeetCode**: [Kernel's LeetCode](https://leetcode.com/kernels)
+- **Email**: [kernels.sws@gmail.com](kernels.sws@gmail.com)
+- **LinkedIn**: [Kernel's LinkedIn](https://www.linkedin.com/in/kernels-sws/)
+- **Facebook**: [Kernel's Facebook](https://www.facebook.com/profile.php?id=61585575573138)
+- **LeetCode**: [Kernel's LeetCode](https://leetcode.com/u/kernels-sws/)
+- **Instagram**: [Kernel's Instagram](https://www.instagram.com/kernels.sws/)
+- **Youtube**: [Kernel's Youtube](https://www.youtube.com/@KERNELS-SWS)
 
 ## Follow Us!
 
 We offer a general newsletter containing the latest news and updates. Subscribe now to stay informed!
 
-[Subscribe to our Newsletter](https://kernels.com/newsletter)
+[Subscribe to our Newsletter](#)
 
 ## Competitions & Platforms
 
-- [HackerRank](https://www.hackerrank.com/)
-- [Codeforces](https://codeforces.com/)
-- [AtCoder](https://atcoder.jp/)
+- [HackerRank](https://www.hackerrank.com/profile/kernels_sws)
+- [Codeforces](https://codeforces.com/profile/kernels.sws)
 
 ---
 
