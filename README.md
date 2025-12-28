@@ -1,6 +1,6 @@
 # Welcome to Kernel's Software Solutions! 🌟
 
-[![Kernel's Logo](https://yt3.googleusercontent.com/lSL01G18tfQkMCrzNLmZE5FcxeRBacxgkWGXlaxpiYlmlwLYDxD5awbSyLRWQWVSS3bCEVszFk4=s160-c-k-c0x00ffffff-no-rj)
+[![Kernel's Logo](https://yt3.googleusercontent.com/lSL01G18tfQkMCrzNLmZE5FcxeRBacxgkWGXlaxpiYlmlwLYDxD5awbSyLRWQWVSS3bCEVszFk4=s160-c-k-c0x00ffffff-no-rj)]
 
 Kernel's Software Solutions is a team of professional engineers and software engineering experts dedicated to providing innovative software solutions to help you enhance your business operations.
 
